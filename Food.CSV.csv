@@ -1,0 +1,16 @@
+Name,Price,Place,Color,Cuisine,Taste,Calories,Protein,Qty,Rating
+Paneer,70,Jaipur,white,Indian,MilkyFlavour,120kcal,yes,1kg,4.4
+pizza,120,Jaipur,brown,Italian,cheesy,200Kcal,no,1 piece,4
+Pasta,50,Jodhpur,white,Italian,spicy,140kcal,no,2pieces,5
+Dhokla,30,Gujrat,yellow,Gujrati,salty,20kcal,yes,1 plate,2
+Kawab,400,Lucknow,yellow,Arabian,spicy,400kcal,yes,2 plate,3.8
+cholebatuure,75,Jaipur,white,Indian,spicy,300kcal,yes,2 plate,4.8
+Burger,50,Indore,yellow,Italian,cheesy,100Kcal,yes,1,4.6
+Momos,20,Indore,white,Chinese,spicy,200kcal,no,1 plate,4.7
+lassi,20,Jaipur,white,Punjabi,creamy,10Kcal,yes,1 glass,3.9
+rajma chawal,100,Punjab,yellow,Punjabi,spicy,50kcal,yes,1,4.1
+choclate cake,500,Dholpur,yellow,american,creamy,250kcal,no,1,4.9
+citrus drink,30,agra,yellow,Indian,lemon,0kcal,yes,2,4.5
+chowmin,45,Jaipur,yellow,chinese,spicy,100kcal,no,5,6.7
+French Fries,100,Indore,yellow,Frenchy,salty,40kcal,no,4,9
+Gulabjamun,400,Indore,brown,Indian,sweet,120kcal,yes,90,10
